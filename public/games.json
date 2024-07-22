@@ -1,0 +1,44 @@
+[
+    {
+        "code": "0001",
+        "name": "Sekiro",
+        "stock": "43",
+        "price": "$30.000",
+        "color": "red"
+    },
+    {
+        "code": "0002",
+        "name": "Fifa 21",
+        "stock": "55",
+        "price": "$25.000",
+        "color": "blue"
+    },
+    {
+        "code": "0003",
+        "name": "Gears of War 4",
+        "stock": "12",
+        "price": "$15.000",
+        "color": "green"
+    },
+    {
+        "code": "0004",
+        "name": "Mario Tennis Aces",
+        "stock": "56",
+        "price": "$35.000",
+        "color": "black"
+    },
+    {
+        "code": "0005",
+        "name": "Bloodborne",
+        "stock": "12",
+        "price": "$10.000",
+        "color": "blue"
+    },
+    {
+        "code": "0006",
+        "name": "Forza Horizon 4",
+        "stock": "4",
+        "price": "$20.000",
+        "color": "red"
+    }
+]
